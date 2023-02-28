@@ -1,0 +1,8 @@
+C:\Users\Nathan\Desktop\yurr\mcq-main\multiple choice\multiple choice\obj\Debug\net5.0-windows\multiple choice.csproj.AssemblyReference.cache
+C:\Users\Nathan\Desktop\yurr\mcq-main\multiple choice\multiple choice\obj\Debug\net5.0-windows\multiple_choice.Form1.resources
+C:\Users\Nathan\Desktop\yurr\mcq-main\multiple choice\multiple choice\obj\Debug\net5.0-windows\multiple_choice.QuestionType.resources
+C:\Users\Nathan\Desktop\yurr\mcq-main\multiple choice\multiple choice\obj\Debug\net5.0-windows\multiple choice.csproj.GenerateResource.cache
+C:\Users\Nathan\Desktop\yurr\mcq-main\multiple choice\multiple choice\obj\Debug\net5.0-windows\multiple choice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\Desktop\yurr\mcq-main\multiple choice\multiple choice\obj\Debug\net5.0-windows\multiple choice.AssemblyInfoInputs.cache
+C:\Users\Nathan\Desktop\yurr\mcq-main\multiple choice\multiple choice\obj\Debug\net5.0-windows\multiple choice.AssemblyInfo.cs
+C:\Users\Nathan\Desktop\yurr\mcq-main\multiple choice\multiple choice\obj\Debug\net5.0-windows\multiple choice.csproj.CoreCompileInputs.cache
